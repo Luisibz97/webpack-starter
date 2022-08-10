@@ -1,8 +1,1 @@
-html, body {
-    margin: 0;
-    background-color: gray;
-}
-
-img {
-    width: 200px;
-}
+#map { height: 625px; }
